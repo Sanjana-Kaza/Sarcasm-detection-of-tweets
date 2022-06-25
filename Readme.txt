@@ -1,4 +1,5 @@
-Sarcasm Detection of tweets 
+Sarcasm Detection of tweets using Pragmatic, Lexical and Lingustic features. 
+Logistic Regression, LinearSVC, Decision Trees, Random Forest and Gaussian Naive Bayes were used for classification.
 
 Classification.ipynb: contains the main classification code (takes about an hour to run)
 Features.py: contains extraction and storage of features
